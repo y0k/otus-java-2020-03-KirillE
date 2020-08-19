@@ -12,4 +12,5 @@ include 'HW01-gradle'
 include 'Hw-GC'
 include 'HW05-Aop'
 include 'HW06-Atm'
+include 'HW07-Department'
 
